@@ -24,7 +24,7 @@ Hasta Luego' >> .archivo4.txt
 
 echo 'Hola, soy el archivo 5
 Este es mi contenido, repito tengo el valor 5
-Hasta Luego' >> archivo5.txt
+Hasta luego_2' >> archivo5.txt
 
 cd ..
 cd ..
